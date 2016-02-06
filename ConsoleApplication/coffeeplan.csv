@@ -1,0 +1,16 @@
+name;milkExist;milkFrothed;milkCoco;milkIntensity;icecream;liqueur;foam;whippedCream;ice
+espresso;0;0;0;0;0;0;0;0;0
+espresso doppio;0;0;0;0;0;0;0;0;0
+espresso macchiato;1;0;0;0;0;0;0;0;0
+con panna;0;0;0;0;0;0;0;1;0
+americano;0;0;0;0;0;0;0;0;0
+cappuccino;1;1;0;1;0;0;0;0;0
+late macchiato;1;1;0;1;0;0;0;0;0
+kawa po irlandzku;0;0;0;0;0;0;0;0;0
+mocha;1;1;1;1;0;0;0;0;0
+frappe ;0;0;0;0;1;0;0;0;0
+cafe filtre;0;0;0;0;0;0;0;0;0
+cafe au lait;1;0;0;1;0;0;0;0;0
+cafe corretto;0;0;0;0;0;1;0;0;0
+Café Creme;0;0;0;0;0;0;1;0;0
+Cafe fredolo;0;0;0;0;0;0;0;0;1
